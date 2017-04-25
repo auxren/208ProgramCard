@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=NetP8_1 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=NetP9_1 Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=NetP10_1 Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Removed Member From Class: ClassName=Sheet1 Member=R11
+Removed Member From Class: ClassName=Sheet1 Member=R12
+Added Component: Designator=J?(Thonkiconn Pot PJ301M)
+Added Component: Designator=VR?(SonGueiPot)
+Added Component: Designator=VR?(SonGueiPot)
+Added Component: Designator=VR?(SonGueiPot)
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetC2_2 Pin=J?-3
+Added Pin To Net: NetName=GND Pin=VR?-1
+Added Pin To Net: NetName=GND Pin=VR?-1
+Added Pin To Net: NetName=GND Pin=VR?-1
+Added Pin To Net: NetName=NetP8_1 Pin=VR?-3
+Added Pin To Net: NetName=NetP9_1 Pin=VR?-3
+Added Pin To Net: NetName=NetP10_1 Pin=VR?-3
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=VR?-2
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=VR?-2
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=VR?-2
+Added Net: Name=NetR15_2
+Added Member To Class: ClassName=Sheet1 Member=Component J? Thonkicon jack
+Added Member To Class: ClassName=Sheet1 Member=Component VR? 50k
+Added Member To Class: ClassName=Sheet1 Member=Component VR? 50k
+Added Member To Class: ClassName=Sheet1 Member=Component VR? 50k
+Added Room: Name=Sheet1

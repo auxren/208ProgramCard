@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=White Noise
+Change Component Designator: OldDesignator=P1 NewDesignator=White Noise
+Change Component Designator: OldDesignator=P2 NewDesignator=MO Mode
+Change Component Designator: OldDesignator=P3 NewDesignator=CO Shape
+Change Component Designator: OldDesignator=P4 NewDesignator=Seq Step #
+Change Component Designator: OldDesignator=P5 NewDesignator=RND Trig In
+Change Component Designator: OldDesignator=P6 NewDesignator=Seq Trig In
+Change Component Designator: OldDesignator=P7 NewDesignator=Env Trig In
+Change Component Designator: OldDesignator=P8 NewDesignator=Decay
+Change Component Designator: OldDesignator=P9 NewDesignator=Sustain
+Change Component Designator: OldDesignator=P10 NewDesignator=Attack
+Added Component: Designator=MO Shape(PIN1)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=VR?(SonGueiPot)
+Added Pin To Net: NetName=GND Pin=VR?-1
+Change Net Name : Old Net Name=NetP2_1 New Net Name=NetMO Mode_1
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetCO Shape_1
+Change Net Name : Old Net Name=NetP4_1 New Net Name=NetSeq Step #_1
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetP6_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetP7_1 New Net Name=NetEnv Trig In_1
+Change Net Name : Old Net Name=NetP8_1 New Net Name=NetDecay_1
+Change Net Name : Old Net Name=NetP9_1 New Net Name=NetSustain_1
+Change Net Name : Old Net Name=NetP10_1 New Net Name=NetAttack_1
+Added Pin To Net: NetName=NetCon1_23 Pin=Con1-23
+Added Pin To Net: NetName=NetCon1_23 Pin=R?-2
+Added Net: Name=NetCon1_23
+Added Pin To Net: NetName=NetMO Shape_1 Pin=MO Shape-1
+Added Pin To Net: NetName=NetMO Shape_1 Pin=VR?-3
+Added Net: Name=NetMO Shape_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VR?-2
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Sheet1 Member=Component MO Shape Plug
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component VR? 50k
+Added Room: Name=Sheet1

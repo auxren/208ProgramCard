@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetP2_1 Pin=R1-1
+Removed Pin From Net: NetName=NetP3_1 Pin=R4-1
+Removed Pin From Net: NetName=NetP4_1 Pin=R6-1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=VR? NewDesignator=VR4
+Change Component Designator: OldDesignator=VR? NewDesignator=VR5
+Change Component Designator: OldDesignator=VR? NewDesignator=VR6
+Added Component: Designator=VR1(SonGueiPot)
+Added Component: Designator=VR2(SonGueiPot)
+Added Component: Designator=VR3(SonGueiPot)
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=NetP2_1 Pin=VR1-3
+Added Pin To Net: NetName=GND Pin=VR2-1
+Added Pin To Net: NetName=NetP3_1 Pin=VR2-3
+Added Pin To Net: NetName=GND Pin=VR3-1
+Added Pin To Net: NetName=NetP4_1 Pin=VR3-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=VR2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VR1-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=VR3-2
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 50k
+Added Member To Class: ClassName=Sheet1 Member=Component VR2 50k
+Added Member To Class: ClassName=Sheet1 Member=Component VR3 50k
+Added Member To Class: ClassName=Sheet1 Member=Component VR4 50k
+Added Member To Class: ClassName=Sheet1 Member=Component VR5 50k
+Added Room: Name=Sheet1

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetCon1_46 Pin=Con1-46
+Added Pin To Net: NetName=NetCon1_46 Pin=R15-1
+Added Net: Name=NetCon1_46
+Added Member To Class: ClassName=Sheet1 Member=Component CO Shape Plug
+Added Member To Class: ClassName=Sheet1 Member=Component MO Mode 50k
+Added Member To Class: ClassName=Sheet1 Member=Component MO Shape Plug
+Added Member To Class: ClassName=Sheet1 Member=Component White Noise Thonkicon jack

@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Sheet1 Member=VR2
+Removed Member From Class: ClassName=Sheet1 Member=VR?
+Change Component Designator: OldDesignator=VR1 NewDesignator=MO Mode
+Change Component Designator: OldDesignator=VR2 NewDesignator=CO Shape
+Change Component Designator: OldDesignator=VR3 NewDesignator=# Step
+Change Component Designator: OldDesignator=VR4 NewDesignator=Att
+Change Component Designator: OldDesignator=VR5 NewDesignator=Sus
+Change Component Designator: OldDesignator=VR6 NewDesignator=Dec
+Change Component Designator: OldDesignator=VR? NewDesignator=MO Shape
+Change Net Name : Old Net Name=NetAttack_1 New Net Name=NetAtt_3
+Change Net Name : Old Net Name=NetDecay_1 New Net Name=NetDec_3
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetCO Shape_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetMO Mode_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=Net# Step_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetDec_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetAtt_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetMO Shape_2
+Change Net Name : Old Net Name=NetSeq Step #_1 New Net Name=Net# Step_3
+Change Net Name : Old Net Name=NetSustain_1 New Net Name=NetSus_3
+Added Member To Class: ClassName=Sheet1 Member=Component CO Shape Plug
+Added Member To Class: ClassName=Sheet1 Member=Component MO Shape Plug
+Added Member To Class: ClassName=Sheet1 Member=Component White Noise Thonkicon jack
+Added Room: Name=Sheet1
